@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Dice-Roll-Simulator.git
+    git clone https://github.com/abhishekboadgurjar/Dice-Roll-Simulator.git
     ```
 
 2. **Open the project directory**:
@@ -46,7 +46,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Dice Roll Simulator [here](https://abhishekgurjar-in.github.io/Dice-Roll-Simulator/).
+You can check out the live demo of the Dice Roll Simulator [here](https://abhishekboadgurjar.github.io/Dice-Roll-Simulator/).
 
 ## Screenshots
 ![Screenshot 2024-08-11 000213](https://github.com/user-attachments/assets/ae2ddc99-9637-44a2-b6da-b651db5584ac)
@@ -62,5 +62,5 @@ This project was inspired by the need for a simple and interactive dice roll too
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
